@@ -10,7 +10,7 @@ import image7 from "../assets/image7.jpeg"
 import { RiImageAddLine } from "react-icons/ri";
 import { useState } from 'react'
 import { useRef } from 'react'
-import { userDataContext } from '../context/userContext'
+import { userDataContext } from '../context/UserContext'
 import { useNavigate } from 'react-router-dom'
 import { IoMdArrowRoundBack } from "react-icons/io";
 
